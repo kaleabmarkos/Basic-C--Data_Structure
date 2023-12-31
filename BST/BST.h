@@ -1,5 +1,5 @@
 
-*********************************************************************
+/*********************************************************************
 *** DESCRIPTION : This is the header file of the BST ADT.
 A binary tree is a nonlinear linked structure. It is nonlinear because
 each node can point to two other nodes. This header file defines a BST
