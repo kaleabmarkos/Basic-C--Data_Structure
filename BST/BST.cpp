@@ -1,10 +1,4 @@
-/********************************************************************
-*** NAME        : Kaleab Gessese                                  ***
-*** CLASS       : CSc 300                                         ***
-*** ASSIGNMENT  : 4                                               ***
-*** DUE DATE    : 11/08/2023                                      ***
-*** INSTRUCTOR  : GAMRADT                                         ***
-*********************************************************************
+/*********************************************************************
 *** DESCRIPTION : This is the implimentation file of the BST ADT.
 The data structure is called a tree because it resembles an upside-down
 tree.It is anchored at the top by a tree pointer , which is like the head pointer in a 
