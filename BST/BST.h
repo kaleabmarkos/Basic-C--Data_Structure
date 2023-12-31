@@ -1,9 +1,4 @@
-/********************************************************************
-*** NAME        : Kaleab Gessese                                  ***
-*** CLASS       : CSc 300                                         ***
-*** ASSIGNMENT  : 4                                               ***
-*** DUE DATE    : 11/08/2023                                      ***
-*** INSTRUCTOR  : GAMRADT                                         ***
+
 *********************************************************************
 *** DESCRIPTION : This is the header file of the BST ADT.
 A binary tree is a nonlinear linked structure. It is nonlinear because
